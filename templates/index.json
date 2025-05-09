@@ -359,6 +359,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Maznatura_Detox-Maz_Capsulas-1_with_watermarks.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -367,7 +368,7 @@
             "desktop_column_span": 2,
             "desktop_row_span": 2,
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
+            "background": "#f0f0f0",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -380,6 +381,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/MaznaturaGastrisanCapsulas-1withwatermarks.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -388,7 +390,7 @@
             "desktop_column_span": 1,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
+            "background": "#f0f0f0",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -401,6 +403,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/MaznaturaOreganoCaps1withwatermarks.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -409,7 +412,7 @@
             "desktop_column_span": 1,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
+            "background": "#f0f0f0",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -422,15 +425,38 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Maznatura_Colageno_Capsulas-1_with_watermarks.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
+            "desktop_column_span": 1,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
+            "background": "#f0f0f0",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_8bBhJY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Maznatura_Coral_Calcium_Capsulas-1_with_watermarks.png",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#f0f0f0",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
@@ -445,7 +471,8 @@
         "item-1",
         "item-2",
         "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "29246d34-c6e0-4373-84f6-b15e57736a00",
+        "image_8bBhJY"
       ],
       "settings": {
         "full_width": true,
