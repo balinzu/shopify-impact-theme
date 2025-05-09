@@ -626,6 +626,17 @@
             "button_text": ""
           }
         },
+        "item_LARa9y": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
@@ -640,6 +651,7 @@
       },
       "block_order": [
         "1664424486a2b084ab-0",
+        "item_LARa9y",
         "1664424486a2b084ab-1"
       ],
       "settings": {
@@ -730,6 +742,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "",
